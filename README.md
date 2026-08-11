@@ -4,7 +4,7 @@ A machine learning system that predicts credit default risk on an imbalanced
 dataset, with a focus on **business-cost-aware decision making** and
 **explainability** — not just raw accuracy.
 
-🔗 **Live demo:** [add your Streamlit Cloud link here once deployed]
+🔗 **Live demo:** https://lalitchoudhary-cloud-spcmruu29spruetyfmnfxc.streamlit.app/
 📓 **Notebook:** https://www.kaggle.com/code/lalit786/notebook95887812de
 
 ---
